@@ -1,0 +1,67 @@
+body{
+    background-color: antiquewhite;
+}
+
+.divp{
+    display: flex;
+    justify-content: center;
+}
+
+.div1{
+
+    background-color: antiquewhite;
+    border: 0px;
+    background-color: white;
+    margin-top: 30px;
+    padding: 10px;
+    width: 65%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    padding-bottom: 50px;
+    border-radius: 6px;
+}
+
+.t{
+    text-align: center;
+    background-color: hsl(39, 39%, 45%);
+    padding: 10px;
+    color: beige;
+    font-family: 'Times New Roman', Times;
+    font-size: 30px;
+    text-shadow: 5px 5px 12px #342609;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.pt{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 23px;
+    padding: 15px;
+    text-shadow: 0px 0px 2px #3a3833;
+}
+
+.dish{
+    display: flex;
+    justify-content: left;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.prix{
+    display: flex;
+    justify-content: right;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+
+
+.disc{
+    color: grey;
+    font-size: 15px;
+}
+
+.l{
+    margin-bottom: 20px;
+    margin-top: -10px;
+}
